@@ -1,17 +1,5 @@
-console.log("hi");
+function sum(a, b) {
+  return a + b;
+}
 
-console.log("hi");
-
-console.log("hi");
-
-console.log("hi");
-
-console.log("hi");
-
-console.log("hi");
-
-console.log("hi");
-
-console.log("hi");
-
-console.log("hi");
+console.log(sum(2, 5));
